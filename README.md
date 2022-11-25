@@ -1,2 +1,3 @@
 # my-keyboard
-My favorite keyboard setup
+
+- [Ergodox](https://github.com/exepirit/my-keyboard/tree/master/ergodox) - split 76-keys keyboard.
