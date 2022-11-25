@@ -6,8 +6,8 @@ My first keyboard is [Ergodox](https://ergodox.io) in its default 76 keys setup.
 
 This keyboard built from wide-accesseble and cheap parts:
 
-- PCB. Ergodox PCB design is open source, and anyone can DIY or order production at the factory.
-- 3D-printed case with minor improvements.
+- [PCB](https://github.com/Ergodox-io/ErgoDox/tree/master/ErgoDOX%20pcb). Ergodox PCB design is open source, and anyone can DIY or order production at the factory.
+- [3D-printed case](https://github.com/exepirit/my-ergodox-case) with minor improvements.
 - Cherry Brown switches
 - PBT keycaps
 
