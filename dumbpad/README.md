@@ -33,10 +33,10 @@ Result firmware binary will be created in Vial installation directory.
 There are 2 ways to update the firmware on RP2040:
 
 1. Upload file manually
-  1. Connect board to the computer
-  2. Reset to bootloader pressing BOOT and RESET button simultaneously.
-  3. Copy the `dumbpad_v3x_rp2040_vial.uf2` file from the Vial Build Environment folder to the connected USB Mass Storage device.
+    1. Connect board to the computer
+    2. Reset to bootloader pressing BOOT and RESET button simultaneously.
+    3. Copy the `dumbpad_v3x_rp2040_vial.uf2` file from the Vial Build Environment folder to the connected USB Mass Storage device.
 2. Using Vial tools
-  1. Run `make vial_example/vial_rp2040:vial:flash` command
-  2. Reset to bootloader
-  3. Wait for flashing to complete.
+    1. Run `make vial_example/vial_rp2040:vial:flash` command
+    2. Reset to bootloader
+    3. Wait for flashing to complete.
